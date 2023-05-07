@@ -3,4 +3,4 @@
 
 - 💡 Zur Zeit lerne ich **JavaScript and Discord.js**
 
-- 💻 Alle meine Projekte sind auf **Github** verfügbar
+- 💻 Alle meine Projekte sind auf **GitHub** verfügbar
