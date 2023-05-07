@@ -1,6 +1,6 @@
-<h1 align="left">👋 Hi, I'm Liam!</h1>
-<h3 align="left">Mediamatician based in Switzerland</h3>
+<h1 align="left">👋 Hey, ich bin Liam.</h1>
+<h3 align="left">Mediamatiker im 2. Lehrjahr</h3>
 
-- 💡 I’m currently learning **JavaScript and Discord.js**
+- 💡 Zur Zeit lerne ich **JavaScript and Discord.js**
 
-- 💻 All of my projects are available at **Github**
+- 💻 Alle meine Projekte sind auf **Github** verfügbar
